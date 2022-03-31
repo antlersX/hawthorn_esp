@@ -1,0 +1,4 @@
+## build 
+```
+idf.py build
+```

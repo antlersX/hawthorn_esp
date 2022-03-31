@@ -1,0 +1,1 @@
+idf_component_register(SRCS "hawthorn_esp.c"INCLUDE_DIRS "")
